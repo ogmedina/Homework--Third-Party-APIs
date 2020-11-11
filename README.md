@@ -1,1 +1,32 @@
-# Homework--Third-Party-APIs
+# Homework Third-Party APIs: Work Day Scheduler
+
+## Full Stack Boot Camp Homework 5 - Work Day Scheduler
+
+### Description
+
+This is the fifth assignment for the UTSA Full-Stack Bootcamp. This is a Work Day Scheduler featuring dynamically updated HTML and CSS powered by jQuery. This app is powered by the library Moment.js to work with dates and times. The following items were the highlights of this assignment:
+
+* Daily planner to create a schedule
+
+* Current day and time displayed at top of the calendar
+
+* Time blocks for standard business hours (9am-5pm)
+
+* Time bocks color-coded to indicate whether it is past/present/future
+
+* Save button to save events for that time block in local storage
+
+* Dynamically updated HTML and CSS powered by jQuery
+
+* Clean, polished, and responsive user interface
+
+### Screenshots
+
+Here are screenshot(s) of the Work Day Scheduler. 
+
+COMING SOON! :D
+
+
+### Deployed Link
+
+Here is a link to the GitHub deployed site: [Work Day Scheduler](https://ogmedina.github.io/Homework--Third-Party-APIs/)
