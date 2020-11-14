@@ -28,6 +28,6 @@ Here is a link to the GitHub deployed site: [Work Day Scheduler](https://ogmedin
 
 Here are screenshot(s) of the Work Day Scheduler. 
 
-![workday1](./Images/workday1.jpg)
+![workdaypicture](https://github.com/ogmedina/Homework--Third-Party-APIs/blob/main/Images/workday1.JPG)
 
 
