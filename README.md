@@ -20,13 +20,14 @@ This is the fifth assignment for the UTSA Full-Stack Bootcamp. This is a Work Da
 
 * Clean, polished, and responsive user interface
 
+### Deployed Link
+
+Here is a link to the GitHub deployed site: [Work Day Scheduler](https://ogmedina.github.io/Homework--Third-Party-APIs/)
+
 ### Screenshots
 
 Here are screenshot(s) of the Work Day Scheduler. 
 
-COMING SOON! :D
+![workday1](./Images/workday1.jpg)
 
 
-### Deployed Link
-
-Here is a link to the GitHub deployed site: [Work Day Scheduler](https://ogmedina.github.io/Homework--Third-Party-APIs/)
