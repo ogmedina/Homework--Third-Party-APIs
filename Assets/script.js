@@ -15,7 +15,6 @@ $(".saveBtn").on("click", function() {
 
 //Finds the current time with the moment.js library
 var currentHour = moment().hour(); 
-console.log(currentHour);
 
 //Function to change the colors based on what time it is by comparing the description ID with the variable currentHour
 $(".description").each(function(){
