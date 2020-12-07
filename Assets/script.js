@@ -1,6 +1,6 @@
 //Time thats in the Jumbotron
 var update = function(){
-var currentDay = moment().format("dddd MMMM do, h:mm:ss a");
+var currentDay = moment().format("dddd MMMM Do, h:mm:ss a");
     $("#currentDay").text(currentDay);
 }
 //Checks every 1000 ms to reset seconds in time in Jumbotron
