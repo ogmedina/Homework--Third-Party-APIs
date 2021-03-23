@@ -1,14 +1,7 @@
-# Homework Third-Party APIs: Work Day Scheduler
+# Work Day Scheduler
+![GitHub](https://img.shields.io/github/license/ogmedina/WorkDay-Scheduler)
 
-```
-Live Site: https://ogmedina.github.io/Homework--Third-Party-APIs
-```
-
-## Full Stack Boot Camp Homework 5 - Work Day Scheduler
-
-### Description
-
-This is the fifth assignment for the UTSA Full-Stack Bootcamp. This is a Work Day Scheduler featuring dynamically updated HTML and CSS powered by jQuery. This app is powered by the library Moment.js to work with dates and times. The following items were the highlights of this assignment:
+This is a Work Day Scheduler featuring dynamically updated HTML and CSS powered by jQuery. This app is powered by the library Moment.js to work with dates and times. The following items were the highlights of this repo:
 
 * Daily planner to create a schedule
 
@@ -24,21 +17,41 @@ This is the fifth assignment for the UTSA Full-Stack Bootcamp. This is a Work Da
 
 * Clean, polished, and responsive user interface
 
-### Technologies Used
+### Table of Contents
 
-#### Front-End:
+* [Installation](#installation)
+* [Hosted Site](#hosted)
+* [Screenshots](#screenshots)
+* [License](#license)
+* [Technologies Used](#technologies%20used)
+* [Questions](#questions)
+
+### Installation
+Please begin by downloading the files onto your computer. Then open up index.html on your browser.
+
+
+### Hosted
+The app is hosted using GitHub Pages here at this link: [Work Day Scheduler](https://ogmedina.github.io/WorkDay-Scheduler/)
+```
+Live Site: https://ogmedina.github.io/WorkDay-Scheduler/
+```
+
+### Screenshots 
+![workdaypicture](https://github.com/ogmedina/Homework--Third-Party-APIs/blob/main/Images/workday1.JPG)
+
+### License
+This project is licensed under the MIT License. 
+
+### Technologies Used:
+Front End: 
 * HTML
 * CSS
 * JavaScript
-* JQuery
-#### Back-End
-* Moment.js
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
 
+Back End:
+* [Moment.js](https://momentjs.com/)
 
-### Screenshots
-
-Here are screenshot(s) of the Work Day Scheduler.
-
-![workdaypicture](https://github.com/ogmedina/Homework--Third-Party-APIs/blob/main/Images/workday1.JPG)
-
-
+### Questions
+If you have any questions about the repo, open an issue or contact me directly at ogmdeveloper0@gmail.com. You can find more of my work through my [GitHub Account](https://github.com/ogmedina/).
